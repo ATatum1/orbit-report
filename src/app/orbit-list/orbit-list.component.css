@@ -8,12 +8,12 @@
 }
 
 table {
-  color: rgb(201, 5, 201);
+  color: rgb(18, 122, 114);
   border-radius: 5px;
   overflow: hidden;
   margin: 12px 0;
   min-width: 300px;
-  background: #ca86bb;
+  background: #f0e1ef;
 }
 
 .header-row {
